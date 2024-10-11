@@ -1,7 +1,7 @@
 const left = document.querySelector('.lhs');
 const right = document.querySelector('.rhs');
 const slider = document.querySelector('.slider');
-const images = document.querySelectorAll('.image')
+const images = document.querySelectorAll('.image');
 
 let slideNo = 1;
 const length = images.length;
